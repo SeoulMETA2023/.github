@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">서울고 기계공학부</br>( META )</h1>
 
-[2023 META 부원 >](https://google.com)
+[2023 META 부원 >](https://github.com/SeoulMETA2023/.github/blob/main/profile/members.md)
 
 ## 자유롭게 만들 수 있는 공간
 정해진 틀에서 벗어나 자유롭게 제작을 하고 싶은 학생들이 있는 동아리입니다.</br>
